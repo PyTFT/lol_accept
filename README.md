@@ -1,2 +1,6 @@
-# lol_accept
-LOL英雄联盟 云顶自动接受对局
+# 英雄联盟自动接受对局
+
+管理员模式运行
+```bash
+python main.py
+```
